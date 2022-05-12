@@ -51,11 +51,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651556051,
-        "narHash": "sha256-+QebOmvxzEWPGcH1oDA7POqJ+hhRjrp7c3C7brPfQHY=",
+        "lastModified": 1651918465,
+        "narHash": "sha256-KZZQA1YQ1sA4XR5j0FlZmt0uLz95CE64pNXv+nrC7kA=",
         "owner": "nim-nix-pkgs",
         "repo": "spinny",
-        "rev": "6db3f6f3eb251e2e6fedcde397896cb248c6f799",
+        "rev": "381dcf0b7ddbb78c9a4be0510e98b0bd0bc52cf2",
         "type": "github"
       },
       "original": {
